@@ -4,6 +4,11 @@
 
 **Merged pull requests:**
 
+- Add support `temporary_name_for_rotation` [\#334](https://github.com/Azure/terraform-azurerm-aks/pull/334) ([lonegunmanb](https://github.com/lonegunmanb))
+- Fix example multiple\_node\_pools [\#328](https://github.com/Azure/terraform-azurerm-aks/pull/328) ([lonegunmanb](https://github.com/lonegunmanb))
+- Add Network Contributor role assignments scoped to AKS nodepools subnets [\#327](https://github.com/Azure/terraform-azurerm-aks/pull/327) ([zioproto](https://github.com/zioproto))
+- Add support for extra node pools [\#323](https://github.com/Azure/terraform-azurerm-aks/pull/323) ([lonegunmanb](https://github.com/lonegunmanb))
+- Add support for `default_node_pool.kubelet_config` [\#322](https://github.com/Azure/terraform-azurerm-aks/pull/322) ([lonegunmanb](https://github.com/lonegunmanb))
 - Support for `public_network_access_enabled` [\#314](https://github.com/Azure/terraform-azurerm-aks/pull/314) ([lonegunmanb](https://github.com/lonegunmanb))
 
 ## [6.7.1](https://github.com/Azure/terraform-azurerm-aks/tree/6.7.1) (2023-03-06)
